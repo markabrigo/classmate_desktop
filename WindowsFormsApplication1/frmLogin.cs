@@ -64,7 +64,6 @@ namespace WindowsFormsApplication1
         
         private void btLogIn_Click(object sender, EventArgs e)
         {
-            string testString = "testString";
             string user = txtUsername.Text;
             string pass = txtPassword.Text;
             if (user == "" || pass == "")
