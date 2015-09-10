@@ -1,0 +1,11 @@
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmRGB.resources
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\VirtualClassroom.csproj.GenerateResource.Cache
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\ChatSever.frmMain.resources
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\VirtualClassroom.csprojResolveAssemblyReference.cache
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\VirtualClassroom.frmMain.resources

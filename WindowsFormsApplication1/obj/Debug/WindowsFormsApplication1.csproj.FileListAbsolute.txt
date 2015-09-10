@@ -1,0 +1,112 @@
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+E:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+E:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+I:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+I:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+I:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+I:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+I:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+I:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+I:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+I:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+I:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+I:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\.x.x.x\DOCUMENTS\Systems\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmRGB.resources
+C:\Users\TinkPad\Desktop\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\TinkPad\Desktop\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\TinkPad\Desktop\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\TinkPad\Desktop\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\TinkPad\Desktop\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\TinkPad\Desktop\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\TinkPad\Desktop\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmRGB.resources
+C:\Users\TinkPad\Desktop\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+C:\Users\TinkPad\Desktop\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\TinkPad\Desktop\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\TinkPad\Desktop\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmRGB.resources
+F:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+F:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+F:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+I:\The Virtual Classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmRGB.resources
+C:\Users\neo\Desktop\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\neo\Desktop\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\neo\Desktop\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\neo\Desktop\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\neo\Desktop\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\neo\Desktop\VirtualClassroom\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\neo\Desktop\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\neo\Desktop\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmRGB.resources
+C:\Users\neo\Desktop\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+C:\Users\neo\Desktop\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\neo\Desktop\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\neo\Desktop\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\neo\Desktop\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmFontStyle.resources
+C:\Users\neo\Desktop\VirtualClassroom\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\neo\Documents\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\neo\Documents\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\neo\Documents\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\neo\Documents\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\neo\Documents\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmFontStyle.resources
+C:\Users\neo\Documents\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmRGB.resources
+C:\Users\neo\Documents\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+C:\Users\neo\Documents\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\neo\Documents\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\neo\Documents\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\neo\Documents\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\neo\Documents\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\neo\Documents\VirtualClassroom\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\neo\Documents\VirtualClassroom\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\neo\Documents\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmClassrooms.resources
+C:\Users\neo\Documents\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCreateClassRoom.resources
+D:\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCreateClassRoom.resources
+D:\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmClassrooms.resources
+D:\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmFontStyle.resources
+D:\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmRGB.resources
+D:\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+D:\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+D:\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\mark\Desktop\vc2\virtual classroom\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\mark\Desktop\vc2\virtual classroom\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\mark\Desktop\vc2\virtual classroom\VirtualClassroom\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\mark\Desktop\vc2\virtual classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\mark\Desktop\vc2\virtual classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCreateClassRoom.resources
+C:\Users\mark\Desktop\vc2\virtual classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmClassrooms.resources
+C:\Users\mark\Desktop\vc2\virtual classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmFontStyle.resources
+C:\Users\mark\Desktop\vc2\virtual classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmRGB.resources
+C:\Users\mark\Desktop\vc2\virtual classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+C:\Users\mark\Desktop\vc2\virtual classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\mark\Desktop\vc2\virtual classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\mark\Desktop\vc2\virtual classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\mark\Desktop\vc2\virtual classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\mark\Desktop\vc2\virtual classroom\VirtualClassroom\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
